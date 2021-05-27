@@ -4,10 +4,7 @@
 )](mailto:janailsonmatias@yahoo.com.br)
 [![edge Badge](https://img.shields.io/badge/-Portifolio_pessoal-blue?style=flat-square&logo=#0076d6&logoColor=white&link=https://jan-matias.github.io/apresentacao/)](https://jan-matias.github.io/apresentacao/)
 
-
-
 ---
-https://jan-matias.github.io/apresentacao/
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como desenvolvedor. 🏆
 
