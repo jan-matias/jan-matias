@@ -1,10 +1,13 @@
 # :man_technologist: Janailson Matias Santos
-[![Linkedin Badge](https://img.shields.io/badge/-Jan_Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janailson-matias//)](https://www.linkedin.com/in/janailson-matias/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jan_Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janailson-matias/)](https://www.linkedin.com/in/janailson-matias/)
 [![yahoo Badge](https://img.shields.io/badge/-janailsonmatias@yahoo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janailsonmatias@yahoo.com.br
-)](mailto:janailsonmatias@yahoo.com.br
-)
+)](mailto:janailsonmatias@yahoo.com.br)
+[![edge Badge](https://img.shields.io/badge/-Portifolio_pessoal-blue?style=flat-square&logo=#0076d6&logoColor=white&link=https://jan-matias.github.io/apresentacao/)](https://jan-matias.github.io/apresentacao/)
 
 
+
+---
+https://jan-matias.github.io/apresentacao/
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como desenvolvedor. 🏆
 
@@ -66,20 +69,3 @@ Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidad
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
-
-
-
-<!--
-**jan-matias/jan-matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
