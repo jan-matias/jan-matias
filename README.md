@@ -4,7 +4,10 @@
 )](mailto:janailsonmatias@yahoo.com.br)
 [![edge Badge](https://img.shields.io/badge/-Portifolio_pessoal-blue?style=flat-square&logo=#0076d6&logoColor=white&link=https://jan-matias.github.io/apresentacao/)](https://jan-matias.github.io/apresentacao/)
 
+
+
 ---
+https://jan-matias.github.io/apresentacao/
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como desenvolvedor. 🏆
 
@@ -14,12 +17,13 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Sou desenvolvedor, comecei minha jornada profissional ingressando na Etec Jaraguá logo no segundo semestre passei para Etec Basilides de Godoy onde terminei o curso.
+Sou estudante no curso de tecnólogo em Análise e Desenvolvimento de Sistemas, comecei minha jornada profissional ingressando na Etec Jaraguá logo no segundo semestre passei para Etec Basilides de Godoy onde terminei o curso. 
 
-
-Sempre estive com um pé em tecnologia da informação, meu hobby sempre foi navegar pela rede buscando conhecimento, gosto de front-end fazer um projeto fácil leitura ao usuário. Sou muito curioso, e gosto de levar a arte para a programação.
+Sempre estive com um pé em tecnologia da informação, meu hobby sempre foi navegar pela rede buscando
+conhecimento, gosto de front-end fazer um projeto fácil leitura ao usuário. Sou muito curioso, e gosto de levar a arte para a programação.
 
 Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a venderem mais, atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing (apresentação), cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
+
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
 
 </details>
@@ -65,4 +69,3 @@ Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidad
 - [Codility](https://app.codility.com/programmers/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-
