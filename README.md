@@ -7,7 +7,6 @@
 
 
 ---
-https://jan-matias.github.io/apresentacao/
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como desenvolvedor. 🏆
 
